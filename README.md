@@ -36,8 +36,11 @@ This project is a Selenium-based automation test for a mobile emulator using Pyt
     python -m pytest --alluredir=allure-results tests/test_twitch.py
     ```
 
-## Notes
 
-- The test uses a mobile emulator for Google Chrome.
-- It includes handling for potential pop-ups or modals that might appear before the video loads.
-- Screenshots are saved.
+## Local Execution
+
+
+
+https://github.com/barrisiva770/TwitchAutomation/assets/173803143/06962916-73b0-4372-9ec0-6506bb7d03b8
+
+
